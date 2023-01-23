@@ -1,0 +1,21 @@
+node task manager
+44:00    - setting upp MongoDB Atlas, cluster, project
+50:40    - exploring data part
+57:28    - connecting to the db via mongoose
+01:11:44 - .env-file
+01:16:23 - creating mongoose Schema and tasks model
+01:28:50 - basic validation for the Schema
+01:37:52 - handling validation error
+01:41:55 - get all tasks controller
+01:48:10 - get a single task/ delete task
+02:06:11 - update task
+02:20:21 - put vs patch
+02:27:05 - response options
+02:32:26 - route not found 404 handling
+02:36:40 - async wrappers for the controllers
+02:46:20 - catching errors
+2:52:20 - custom error
+
+
+
+
